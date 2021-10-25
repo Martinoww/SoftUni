@@ -1,0 +1,15 @@
+{
+  "name": "UnitTesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dealerShip.js",
+  "scripts": {
+    "test": "mocha dealerShip.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4"
+  }
+}
